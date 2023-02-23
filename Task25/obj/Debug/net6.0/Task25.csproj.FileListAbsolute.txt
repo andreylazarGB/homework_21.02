@@ -1,0 +1,15 @@
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+E:\GB\GIT\C#\homework_21.02\Task25\bin\Debug\net6.0\Task25.exe
+E:\GB\GIT\C#\homework_21.02\Task25\bin\Debug\net6.0\Task25.deps.json
+E:\GB\GIT\C#\homework_21.02\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+E:\GB\GIT\C#\homework_21.02\Task25\bin\Debug\net6.0\Task25.dll
+E:\GB\GIT\C#\homework_21.02\Task25\bin\Debug\net6.0\Task25.pdb
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\Task25.dll
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\refint\Task25.dll
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\Task25.pdb
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
+E:\GB\GIT\C#\homework_21.02\Task25\obj\Debug\net6.0\ref\Task25.dll
