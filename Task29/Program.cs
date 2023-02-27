@@ -4,6 +4,7 @@
 //6, 1, 33 -> [6, 1, 33]
 
 Console.Clear();
+
 Console.WriteLine("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
@@ -19,7 +20,7 @@ void FillArray(int[] collection)
 }
 
 
-void PrintArray(int[] array)
+/*void PrintArray(int[] array)
 {
     int count = array.Length;
 
@@ -27,7 +28,28 @@ void PrintArray(int[] array)
     {
         Console.Write($"{array[i]} ");
     }
-    Console.WriteLine();
+    //Console.WriteLine($"[]");
+}*/
+
+void PrintArray(int[] arr)
+{
+    Console.Write($"[");
+    int count = 0;
+    int arrLenght = arr.Length;
+    foreach(int num in arr)
+    {
+        count++;
+        Console.Write($"{num}");
+
+        if(count == arrLenght)
+        {
+            Console.Write($"]");
+        }
+        else{
+            Console.Write($". ");
+        }
+    }
+    Console.WriteLine($" ");
 }
 
 int [] Array = new int [num];
